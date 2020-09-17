@@ -30,6 +30,12 @@
                 }  
                 }  
                 return true;  
-                }    
+                }  
+
+ **6. Work experience:** None  
+
+ **7. Education:** ***RSSchool*** - in the learning process  
+
+ **8. Level of english:** B1, but little experience of spoken language.
 
 
