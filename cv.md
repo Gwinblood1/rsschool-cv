@@ -7,7 +7,7 @@
 >**Telegramm -** [@Sashka12345](https://t.me/Sashka12345/ "Telegramm")
 >**Tel. -** +375 (29) 835-55-99  
 
-**Objectives:** I want to master new skills and knowledge in the field of IT. Participate in the creation of new products. I have a high learning ability, a sharp mind and a great passion for solving problems unfamiliar to me. I make every effort to achieve all the goals that I set for myself.  
+**Objectives:** I going to master new skills and knowledge of web development. Participate in the process of creation of new products. I have a high learning ability and self education skills, a sharp mind and a great passion for solving problems unfamiliar to me. I’m doing my best to achieve all the goals that I set for myself.  
 
 **4. Skills:** 
 * ***JavaScript:*** *in the learning process.*
