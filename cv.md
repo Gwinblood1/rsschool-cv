@@ -15,19 +15,21 @@
 *  ***Visual Studio Code:*** *First level*
 *  ***WinXP/7/10:*** *Advanced User*  
 
-**5. Code examples:**
-***Palindrome strings***
-    function isPalindrome(line) {
-  let i = 0;
-  let n = line.toString();
-  console.log(n);
-   let h = n.length - 1;
-   while ( h > 1 ) {
-     if ( n[i++] !== n[h--] ) {
-            return false;
-     }
-       }
-  return true;
- }    
+**5. Code examples:**  
 
- 
+***Palindrome strings***  
+
+    function isPalindrome(line) {  
+        let i = 0;  
+        let n = line.toString();  
+        console.log(n);  
+        let h = n.length - 1;  
+        while ( h > 1 ) {  
+            if ( n[i++] !== n[h--] ) {  
+                return false;  
+                }  
+                }  
+                return true;  
+                }    
+
+
