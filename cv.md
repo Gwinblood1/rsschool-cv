@@ -36,6 +36,6 @@
 
  **7. Education:** ***RSSchool*** - in the learning process  
 
- **8. Level of english:** B1, but little experience of spoken language.
+ **8. Level of english:** B1, with experience of communicating with native speakers.
 
 
