@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>My CV</title>
+    <meta name="author" content="Maksim Ivankou">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Simonetta:400,900|Balthazar">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="responsive.css">
+</head>
+
+<body>
+    <div class="centrirovanie">
+        <div id="w" itemscope itemtype="http://schema.org/Person">
+            <header class="clearfix">
+                <div id="info">
+                    <h1><span itemprop="name">Maksim Ivankou</span></h1>
+                    <h3><span itemprop="jobTitle">RSSchool student &amp; Junior Dev</span></h3>
+                    <small itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <span itemprop="addressLocality">Zhlobin</span>,
+                        <span itemprop="addressRegion">Homelskaya obl.</span>,
+                        <span itemprop="addressCountry">Belarus</span>
+                    </small>
+                    <small><span itemprop="email">fahrenheit9110@gmail.com</span></small>
+                    <small><a href="https://t.me/Sashka12345/" itemprop="url">Telegramm</a> &bull; <a
+                            href="https://www.instagram.com/gwinblood/" itemprop="url">Instagram</a></small>
+                </div>
+                <div id="photo">
+                    <img src='images/image.jpg' alt="Maksim Ivankou photo avatar" itemprop="image" />
+                </div>
+            </header>
+
+            <section id="profile">
+                <h2>My Objectives &amp; Profile</h2>
+                <p itemprop="description">I going to master new skills and knowledge of web development.
+                    Participate in the process of creation of new products. I have a high learning ability and self
+                    education skills, a sharp mind and a great passion for solving problems unfamiliar to me. I’m doing
+                    my
+                    best to achieve all the goals that I set for myself.</p>
+                <p>My Level of English is B1, with experience of communicating with native speakers.</p>
+            </section>
+
+            <section id="skills" class="clearfix" itemscope itemtype="http://schema.org/ItemList">
+                <h2 itemprop="name">Skillset</h2>
+                <section id="skills-left">
+                    <h4 itemprop="about">Development</h4>
+                    <ul>
+                        <li itemprop="itemListElement">HTML5/CSS3</li>
+                        <li itemprop="itemListElement">JavaScript</li>
+                    </ul>
+                </section>
+                <section id="skills-right">
+                    <h4 itemprop="about">Software</h4>
+                    <ul>
+                        <li itemprop="itemListElement">MS Office 2007-2020</li>
+                        <li itemprop="itemListElement">Adobe Photoshop</li>
+                        <li itemprop="itemListElement">Visual Studio Code</li>
+                    </ul>
+                </section>
+            </section>
+
+            <section id="education">
+                <h2>Past Education</h2>
+                <p><span itemprop="alumniOf">Moscow Humanitarian Academy</span> graduate of 2014.</p>
+            </section>
+
+            <section id="experience">
+                <h2>Work Experience</h2>
+                <p>Technical director of the "LuxWebModels" studio ~ 2019-2020</p>
+            </section>
+
+            <section>
+                <h2>Code Example</h2>
+                <pre>
+        <code class="code">
+function isPalindrome(line) {
+    let i = 0;
+    let n = line.toString();
+    console.log(n);
+    let h = n.length - 1;
+    while ( h > 1 ) {
+      if ( n[i++] !== n[h--] ) {
+    return false;
+        }                                     
+        }
+        return true;    
+    }
+        </code>
+    </pre>
+
+            </section>
+
+        </div>
+    </div>
+</body>
+
+</html>
